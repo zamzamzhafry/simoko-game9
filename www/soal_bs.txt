@@ -1,0 +1,24 @@
+Pada gambar berikut komponen no 2 adalah thermostat;
+1;
+|
+Pada gambar berikut komponen no 1 adalah radiator;
+2;
+|
+Pada gambar berikut komponen no 3 adalah pompa air;
+1;
+|
+Pada gambar berikut komponen no 4 adalah radiator;
+1;
+|
+Pada gambar berikut komponen no 5 adalah selang radiator;
+2;
+|
+Pada gambar berikut komponen no 6 adalah tali kipas (fan belt);
+1;
+|
+Pada gambar berikut komponen no 7 adalah panci oli;
+2;
+|
+Berfungsi mengatur lamanya waktu injeksi secara otomatis;
+2;
+|

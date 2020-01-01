@@ -1,0 +1,49 @@
+3;
+Kondensor;
+Cylinder Head;
+Radiator;
+Tutup Radiator;
+Evaporator;
+|
+4;
+Spark Plug;
+Tutup Oli;
+Radiator;
+Tutup Radiator;
+Pompa Air;
+|
+2;
+By Pass Hose;
+Thermostat;
+Radiator;
+Tutup Radiator;
+Water Jacket;
+|
+5;
+Lubang Oli Mesin;
+Thermostat;
+Radiator;
+Tutup Radiator;
+Water Jacket
+|
+5;
+Selang AC;
+Pipa Bensin;
+Radiator;
+Selang Bensin;
+Selang Air;
+|
+4;
+Kipas Pendingin;
+Pipa Bensin;
+Tali Radiator;
+Tali Kipas;
+Selang Air;
+|
+5;
+Thermostat;
+Cylinder Head;
+Radiator;
+Tutup Radiator;
+Pompa Air;
+|

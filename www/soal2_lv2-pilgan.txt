@@ -1,0 +1,35 @@
+3;
+Pengecekan Radiator;
+Melepas Tutup Radiator;
+Pengecekan Pompa Air;
+Mengecek Thermostat;
+Pemeriksaan Tali Kapas;
+|
+4;
+Pembongkaran Radiator;
+Cek Tekanan Tutup Radiator;
+Pemanasan Pompa Air;
+Cek Pembukaan Thermostat;
+Pemeriksaan Tali Kapas;
+|
+1;
+Pengecekan Radiator;
+Melepas Tutup Radiator;
+Pengetesan Pompa Air;
+Cek Tekanan Thermostat;
+Pemeriksaan Tali Kapas;
+|
+5;
+Pemeriksaan Kondisi Radiator;
+Tes tekanan tutup Raditator;
+Pengecekan Pompa Air;
+Cek Suhu buka Thermostat;
+Cek Saluran Water Jacket;
+|
+3;
+Cek Sensor Radiator;
+Pemanasan Tutup Radiator;
+Cek Sensor temperatur Air;
+Tes Kabel Thermostat;
+Pengecekan Water Jacket;
+|
